@@ -7,3 +7,4 @@ c = int(input())
 arr = [a, b, c]
 
 print(max(arr))
+print(min(arr))
